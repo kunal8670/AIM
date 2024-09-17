@@ -12,7 +12,7 @@ This list covers essential topics for mastering Linux, including system customiz
 - [x] 1.1.1.1 Customize the **Bash prompt (PS1)** in `~/.bashrc` or `~/.zshrc` for a unique look.
       **GitHub Repo**: [Visit My GitHub Repository](https://github.com/kunal8670/linux_terminal_modifay-2.git)
       **PDF**:[here is a PDF](https://www.linkedin.com/posts/kunal-patil-8733b528a_chapter-1-1111-terminal-customization-activity-7241574074664013828-PkEH?utm_source=share&utm_medium=member_desktop)
-- [ ] 1.1.1.2 Use **Powerline** or **Starship** for enhanced terminal information (git status, battery, etc.).
+- [x] 1.1.1.2 Use **Powerline** or **Starship** for enhanced terminal information (git status, battery, etc.).
 - [x] 1.1.1.3 Install and configure **Figlet** and **Lolcat** for colorful ASCII art banners.
       **GitHub Repo**: [Visit My GitHub Repository](https://github.com/kunal8670/linux_terminal_modifay-1.git)
 - [ ] 1.1.1.4 Set up **aliases** for commonly used commands (e.g., `alias update='sudo apt update && sudo apt upgrade'`).
