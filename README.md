@@ -18,7 +18,7 @@ This list covers essential topics for mastering Linux, including system customiz
 - [x] 1.1.1.4 Set up **aliases** for commonly used commands (e.g., `alias update='sudo apt update && sudo apt upgrade'`).
 
 #### 1.1.2 Desktop Environment (Optional)
-- [ ] 1.1.2.1 Install and customize **GNOME**, **KDE**, or **XFCE** with themes and extensions.
+- [x] 1.1.2.1 Install and customize **GNOME**, **KDE**, or **XFCE** with themes and extensions.
 - [ ] 1.1.2.2 Use **Conky** to display system information on the desktop.
 - [ ] 1.1.2.3 Learn to manage **display managers** (lightdm, gdm, etc.) for login sessions.
 
